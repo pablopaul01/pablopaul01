@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.ibb.co/fN8Lkk4/github-banner.png)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHTj-FsUDVSyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698242865099?e=1758758400&v=beta&t=cvwuy_7s1GdNAa1uJdRKHOTG39ngnOPUAxYHeNnIAVU)
 
 # 👋 ¡Hola! Soy Juan Pablo Salomón  
 
