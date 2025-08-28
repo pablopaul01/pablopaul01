@@ -51,8 +51,8 @@
 
 | Empresa            | Rol                     | Tecnologías principales |
 |--------------------|-------------------------|--------------------------|
-| Mendez Collado     | Tech Lead / Fullstack   | Next.js, Prisma, AWS     |
-| Rolling Code Studio| Tech Lead / Fullstack   | Next.js, Node.js, MongoDB|
+| Mendez Collado     | Tech Lead / Fullstack   | Next.js, Prisma, Postgresql, AWS     |
+| Rolling Code Studio| Tech Lead / Fullstack   | Next.js, Node.js, MongoDB, Postgresql, Typescript|
 | Wishmakers IT      | Fullstack Developer     | React, Next.js, MongoDB  |
 | MIDDAS             | Fullstack Developer     | Next.js, Node.js, MongoDB|
 
