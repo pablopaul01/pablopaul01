@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQHTj-FsUDVSyQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698242865099?e=1758758400&v=beta&t=cvwuy_7s1GdNAa1uJdRKHOTG39ngnOPUAxYHeNnIAVU)
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQEAlka_2ay1ig/profile-displaybackgroundimage-shrink_350_1400/B4DZkz9KHBJQAc-/0/1757513296277?e=1760572800&v=beta&t=JPEAUVESli0vogWH8xAvJArhDsPiOz0FK7rSU5k1vSc)
 
 # 👋 ¡Hola! Soy Juan Pablo Salomón  
 
