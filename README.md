@@ -32,13 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablopaul01&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablopaul01&layout=compact&theme=radical)  
-
----
-
 ## 🚀 Proyectos Destacados
 
 - [CRM de WhatsApp](https://github.com/pablopaul01/whatsapp-crm) → Multiagente, Venom-Bot, MongoDB, JWT.  
