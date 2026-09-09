@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://res.cloudinary.com/dcv6aut2v/image/upload/v1763643773/1757513296277_ewl02z.jpg)
+![Banner](https://asset.cloudinary.com/dcv6aut2v/192a6193ba689d18059fb014d011251e)
 
 # 👋 ¡Hola! Soy Juan Pablo Salomón  
 
